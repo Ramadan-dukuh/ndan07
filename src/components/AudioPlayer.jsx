@@ -18,7 +18,7 @@ const AudioPlayer = ({ musicPlaying, setMusicPlaying }) => {
   return (
     <>
       <audio ref={audioRef} loop>
-        <source src="/public/Perfection Sempurna English Version - BBIBEEB.mp3" type="audio/wav" />
+        <source src="/Perfection Sempurna English Version - BBIBEEB.mp3" type="audio/wav" />
       </audio>
 
       <div className="music-controls">

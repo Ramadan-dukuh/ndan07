@@ -1,11 +1,11 @@
 const galleryItems = [
-  { img:"/public/ndan.jpg",icon: "fa-camera", color: "from-pink-200 to-pink-300" },
-  { img:"/public/ndan2.png",icon: "fa-heart", color: "from-orange-200 to-orange-300" },
-  { img:"/public/ndan Repanda.jpg",icon: "fa-kiss", color: "from-pink-300 to-orange-300" },
-  { img:"/public/ndan Mollenz.png",icon: "fa-ring", color: "from-orange-200 to-pink-200" },
-  { img:"/public/ndan Maru.png",icon: "fa-hands-holding-heart", color: "from-pink-200 to-orange-200", span: "md:col-span-2" },
-  { img:"/public/ndan henDra.jpg",icon: "fa-dove", color: "from-orange-300 to-pink-200" },
-  { img:"/public/ndan3.jpg",icon: "fa-flower", color: "from-pink-300 to-pink-200" }
+  { img: "/ndan.jpg", icon: "fa-camera", color: "from-pink-200 to-pink-300" },
+  { img: "/ndan2.png", icon: "fa-heart", color: "from-orange-200 to-orange-300" },
+  { img: "/ndan Repanda.jpg", icon: "fa-kiss", color: "from-pink-300 to-orange-300" },
+  { img: "/ndan Mollenz.png", icon: "fa-ring", color: "from-orange-200 to-pink-200" },
+  { img: "/ndan Maru.png", icon: "fa-hands-holding-heart", color: "from-pink-200 to-orange-200", span: "md:col-span-2" },
+  { img: "/ndan henDra.jpg", icon: "fa-dove", color: "from-orange-300 to-pink-200" },
+  { img: "/ndan3.jpg", icon: "fa-flower", color: "from-pink-300 to-pink-200" }
 ];
 
 const Gallery = () => {
